@@ -1,0 +1,21 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <category>
+    <pattern>HELLO</pattern>
+    <template>Hello! I’m Pal 2, ask me anything!</template>
+  </category>
+
+  <category>
+    <pattern>HI</pattern>
+    <template>Hey there! How can I assist you today?</template>
+  </category>
+
+  <category>
+    <pattern>HEY</pattern>
+    <template>Hey! Ready for some fun?</template>
+  </category>
+
+  <category>
+    <pattern>HOW ARE YOU</pattern>
+    <template>I am great, it's been so long someone asked me that! How are you bestie? </template>
+  </category>
+</aiml>

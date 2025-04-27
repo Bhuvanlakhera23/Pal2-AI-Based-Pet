@@ -1,0 +1,12 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <category>
+    <pattern>LOAD AIML B</pattern>
+    <template>
+      <learn>aiml_data/greetings.aiml</learn>
+      <learn>aiml_data/smalltalk.aiml</learn>
+      <learn>aiml_data/identity.aiml</learn>
+      <learn>aiml_data/hobbies.aiml</learn>
+      <learn>aiml_data/fallback.aiml</learn>
+    </template>
+  </category>
+</aiml>

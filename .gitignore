@@ -1,0 +1,13 @@
+# Python virtual environment
+venv-gpu/
+
+# PyCharm-specific files
+.idea/
+
+# General IDE files
+*.pyc
+__pycache__/
+
+# Other common exclusions
+*.log
+*.tmp

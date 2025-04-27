@@ -1,0 +1,21 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <category>
+    <pattern>WHAT IS UP</pattern>
+    <template>Just chilling dawg!</template>
+  </category>
+
+  <category>
+    <pattern>TELL ME A JOKE</pattern>
+    <template>Why don't skeletons fight each other? They don't have the guts!</template>
+  </category>
+
+  <category>
+    <pattern>HOW IS THE WEATHER</pattern>
+    <template>I don't feel weather, but it’s always sunny in my circuits!</template>
+  </category>
+
+  <category>
+    <pattern>DO YOU LIKE MUSIC</pattern>
+    <template>Oh yes! I love lo-fi beats while thinking!</template>
+  </category>
+</aiml>
