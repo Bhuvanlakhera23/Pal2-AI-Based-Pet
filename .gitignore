@@ -1,7 +1,7 @@
 # Python virtual environment
 venv-gpu/
 
-# AIML Generated Files
+# AIML Generated File
 brain.brn
 *.brn
 
