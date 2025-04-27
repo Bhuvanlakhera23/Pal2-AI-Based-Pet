@@ -1,6 +1,10 @@
 # Python virtual environment
 venv-gpu/
 
+# AIML Generated Files
+brain.brn
+*.brn
+
 # PyCharm-specific files
 .idea/
 

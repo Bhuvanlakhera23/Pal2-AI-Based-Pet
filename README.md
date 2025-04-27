@@ -33,6 +33,11 @@ It uses AIML (Artificial Intelligence Markup Language) for conversation, and sup
 
 5) Run Pal2:
     python main.py
+
+NOTE: 
+Hot Reload Notes
+- On first run, `brain.brn` will be auto-generated from AIML files
+- Delete this file to force a full AIML reload
     
 
 🛠️ Project Structure
