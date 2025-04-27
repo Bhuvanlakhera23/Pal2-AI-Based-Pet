@@ -1,6 +1,6 @@
 <aiml version="1.0.1" encoding="UTF-8">
   <category>
     <pattern>*</pattern>
-    <template>Oops! I have no idea how to answer this, maybe wait till I get</template>
+    <template>Oops! I have no idea how to answer this, maybe wait till I get smarter!</template>
   </category>
 </aiml>
