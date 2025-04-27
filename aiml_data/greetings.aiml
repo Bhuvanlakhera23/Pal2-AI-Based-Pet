@@ -15,6 +15,11 @@
   </category>
 
   <category>
+    <pattern>HOLA</pattern>
+    <template>hola amigo! como estas</template>
+  </category>
+
+  <category>
     <pattern>HOW ARE YOU</pattern>
     <template>I am great, it's been so long someone asked me that! How are you bestie? </template>
   </category>
