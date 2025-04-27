@@ -1,6 +1,6 @@
-🐾 Pal2: Physical AI Dekstop Assistant
+PAL2: PHYSICAL AI DESKTOP ASSISTANT
 Pal2 is a lightweight AI-powered digital pet that can talk to you via typed or voice interactions!
-It uses AIML (Artificial Intelligence Markup Language) for conversation, and supports TTS (Text-to-Speech) for natural voice responses. This version of Pal2 contains the basic feeded AIML conversational capabilities which will be replaced by NLP in future version. Ultimate goal is to load Pal2 to a physical microcontroller with much more capabilities like Emotion Recognition and improved awareness.
+It uses AIML (Artificial Intelligence Markup Language) for conversation, and supports TTS (Text-to-Speech) for natural voice responses. This version of Pal2 contains the basic fed AIML conversational capabilities, which will be replaced by NLP in future versions. The ultimate goal is to load Pal2 to a physical microcontroller with more capabilities, like Emotion Recognition and improved awareness.
 
 ✨ Features
 🧠 AIML Brain: Pre-trained conversational responses.
@@ -11,7 +11,7 @@ It uses AIML (Artificial Intelligence Markup Language) for conversation, and sup
 
 🔄 Hot Reload: AIML files update without restarting.
 
-🖥️ Lightweight: TTS runs without GPU, use GPU for faster responses.
+🖥️ Lightweight: TTS runs without a GPU; use a GPU for faster responses.
 
 🚀 Setup
 1) Clone the repo:
@@ -62,7 +62,7 @@ Watchdog (Allows instant changes in AIML responses without restarting Main.py)
 
 🎯 Future Plans
 Add emotion responses.
-Movement animations (After connecting to hardware pet).
+Movement animations (After connecting to the hardware).
 Smarter NLP with intent detection.
 
 🤝 Contributions
