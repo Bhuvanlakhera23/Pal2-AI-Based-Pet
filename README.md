@@ -1,4 +1,5 @@
 PAL2: PHYSICAL AI DESKTOP ASSISTANT
+
 Pal2 is a lightweight AI-powered digital pet that can talk to you via typed or voice interactions!
 It uses AIML (Artificial Intelligence Markup Language) for conversation, and supports TTS (Text-to-Speech) for natural voice responses. This version of Pal2 contains the basic fed AIML conversational capabilities, which will be replaced by NLP in future versions. The ultimate goal is to load Pal2 to a physical microcontroller with more capabilities, like Emotion Recognition and improved awareness.
 
