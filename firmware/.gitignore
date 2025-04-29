@@ -1,0 +1,17 @@
+# PlatformIO build system files
+.pio/
+.vscode/
+
+# PlatformIO project-specific files
+*.elf
+*.bin
+*.hex
+*.map
+
+# C/C++ object files
+*.o
+*.obj
+*.d
+
+# Library caches
+libdeps/
