@@ -14,6 +14,7 @@ It uses AIML (Artificial Intelligence Markup Language) for conversation, and sup
 
 🖥️ Lightweight: TTS runs without a GPU; use a GPU for faster responses.
 
+
 🚀 Setup
 1) Clone the repo:
     git clone https://github.com/Bhuvanlakhera23/Pal2-AI-Based-Pet.git
